@@ -100,3 +100,6 @@ switchButton.addEventListener("click",function()
 
 
 })
+
+// SLIDER
+$('.slider').slick();
